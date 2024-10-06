@@ -36,3 +36,21 @@ Here are some ideas to get you started:
     <img alt="Static Badge" src="https://img.shields.io/badge/Data_Journal-Datakyu">
   </a>
 </div>
+
+<h2 align="center">🏆 My Stats</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AzizDhaouadi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzizDhaouadi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
+</div>
+
+<h2 align="center">🎮 AFK</h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white" alt="Playstation 5" />
+  <img src="https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white" alt="Nintendo Switch" />
+  <img src="https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white" alt="Crunchyroll" />
+</div>
+  
+
+  
+  
+  
